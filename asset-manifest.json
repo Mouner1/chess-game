@@ -1,0 +1,15 @@
+{
+  "main.css": "/chess-app/static/css/main.351ef24c.chunk.css",
+  "main.js": "/chess-app/static/js/main.12a66867.chunk.js",
+  "main.js.map": "/chess-app/static/js/main.12a66867.chunk.js.map",
+  "static/js/1.f99921d6.chunk.js": "/chess-app/static/js/1.f99921d6.chunk.js",
+  "static/js/1.f99921d6.chunk.js.map": "/chess-app/static/js/1.f99921d6.chunk.js.map",
+  "static/js/2.23a87d06.chunk.js": "/chess-app/static/js/2.23a87d06.chunk.js",
+  "static/js/2.23a87d06.chunk.js.map": "/chess-app/static/js/2.23a87d06.chunk.js.map",
+  "runtime~main.js": "/chess-app/static/js/runtime~main.17ac970a.js",
+  "runtime~main.js.map": "/chess-app/static/js/runtime~main.17ac970a.js.map",
+  "static/css/main.351ef24c.chunk.css.map": "/chess-app/static/css/main.351ef24c.chunk.css.map",
+  "index.html": "/chess-app/index.html",
+  "precache-manifest.358afd1dea275b79078276f5f4e6ae05.js": "/chess-app/precache-manifest.358afd1dea275b79078276f5f4e6ae05.js",
+  "service-worker.js": "/chess-app/service-worker.js"
+}
